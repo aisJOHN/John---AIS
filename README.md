@@ -2,8 +2,8 @@
         <h1>Join the Fight Against the Legion!
         </h1>
             <p>
-                <a href="#What to Do?"><u>What to Do?</u></a>
-                <a href="#The Threat it Poses"><u>The Threat it Poses</u></a>
+                <a href="#What to Do?"><u>What to Do?</u></a> &npsrd;
+                <a href="#The Threat it Poses"><u>The Threat it Poses</u></a> &npsrd;
                 <a href="#For Azeroth!"><u>For Azeroth!</u></a>
             </p>
         <h2 id="What to Do?">What to Do?</h2>
