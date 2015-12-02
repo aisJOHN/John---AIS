@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
         <h1>Join the Fight Against the Legion!
         </h1>
