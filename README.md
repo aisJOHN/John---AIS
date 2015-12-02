@@ -1,13 +1,5 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <link type="text/css" rel="stylesheet" href="w4.css"/>
-        <title>
-            Challenge W4
-        </title>
-    </head>
-    <body>
-        <img src="http://images.vcpost.com/data/images/full/56302/world-of-warcraft-patch-6-2-reveals-new-raid-hellfire-citadel.jpg?w=590" name="top-image" id="top-image"/>
         <h1>Join the Fight Against the Legion!
         </h1>
             <p>
