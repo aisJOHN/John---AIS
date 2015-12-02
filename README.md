@@ -80,7 +80,7 @@
                 This may be our final stand against the darkness, but we will not falter! We will burn a legacy so bright, that it's light shall never fade! We will show that even with the threat of destuction, we will never surrender. We will show the legion that we will never give in. For our homeland! For Azeroth!
             </p>
 <center>
-    <img src="http://vignette1.wikia.nocookie.net/wowwiki/images/8/89/HordeCrest.jpg/revision/latest?cb=20061202150108">
+    <img src="http://vignette1.wikia.nocookie.net/wowwiki/images/8/89/HordeCrest.jpg/revision/latest?cb=20061202150108"/>
 </center>
     <h1>The End</h1>
     </body>
