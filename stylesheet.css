@@ -1,0 +1,35 @@
+div {
+    color: crimson;
+    border: 1px dashed crimson;
+    font-size: 14px;
+    width: 450px;
+}
+a:hover {
+    background-color: green;
+}
+a {
+    background-color: red;   
+}
+h1 {
+    color: green;
+    background-color: purple;
+}
+ul {
+    color: blue;
+}
+p {
+    color: purple;
+}
+h2 {
+    color: purple;
+    background-color: #00ff00;
+}
+strong {
+    font-size: 13px;
+    color: red;
+}
+#top-image {
+    float: right;   
+    width: 400px;
+    height: 290px;
+}
